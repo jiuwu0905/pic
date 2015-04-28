@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lofter精选</string>
+    <string name="action_settings">检查更新</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="pic_title_number">%1$s/%2$s</string>
+
+</resources>

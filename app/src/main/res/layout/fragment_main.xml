@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<io.codetail.widget.RevealFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView android:id="@+id/listView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none"
+            android:fadingEdge="none"
+            android:divider="@null"
+            android:dividerHeight="10dp"
+            android:cacheColorHint="@color/transparent"
+            android:listSelector="@color/transparent"
+            ></ListView>
+
+    </FrameLayout>
+</io.codetail.widget.RevealFrameLayout>
